@@ -1,10 +1,10 @@
-# <name of app>
+# Dice Roller
 
 An Android application that simulates a dice roll.
 
 Submitted by: <Joey Lawter>
 
-Time spent: <three hours>
+Time spent: <3 hours>
 
 ## User Stories
 
@@ -32,7 +32,7 @@ The tutorial was so good that I really didn't encounter any difficulties while b
 
 ## License
 
-Copyright 2018 <Joey Lawter>
+Copyright 2018 Joey Lawter
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
