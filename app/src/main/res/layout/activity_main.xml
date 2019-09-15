@@ -15,10 +15,10 @@
         />
 
     <Button
-        android:id="@+id/roll_1d6_button"
+        android:id="@+id/rollButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/roll_1d6"
+        android:text="@string/roll"
         android:layout_gravity="center_horizontal"/>
 
 </LinearLayout>
