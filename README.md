@@ -2,9 +2,9 @@
 
 An Android application that simulates a dice roll.
 
-Submitted by: <Joey Lawter>
+Submitted by: Joey Lawter
 
-Time spent: <3 hours>
+Time spent: 3 hours
 
 ## User Stories
 
