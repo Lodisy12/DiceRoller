@@ -4,7 +4,7 @@ An Android application that simulates a dice roll.
 
 Submitted by: Joey Lawter
 
-Time spent: 3 hours
+Time spent: 4 hours
 
 ## User Stories
 
@@ -16,8 +16,9 @@ The following **required** functionality is complete:
 * [X] User can press button to simulate a die roll.
 
 The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+	  
+	  No additional features yet
+* [ ] plan to include other die types (d4, d8, d10, d100, d12 and d20) but ran out of time. Will update later
 
 ## Video Walkthrough 
 
@@ -27,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-The tutorial was so good that I really didn't encounter any difficulties while building the app, though I had some difficulties installing Android Studio. I couldn't get the virtual machine portion to work, HAXM. I had to install something called WHPX on my machine that handles the Virtual Machine for AMD processors.
+The only difficulty I had was with installing Android Studio. I couldn't get the virtual machine portion to work, HAXM. I had to install something called WHPX on my machine that handles the Virtual Machine for AMD processors.
 
 
 ## License
